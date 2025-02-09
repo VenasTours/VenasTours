@@ -1,5 +1,31 @@
 <html>
-  <head>
+  <head
+img {
+  border-radius: 120px;
+  h1 {
+    font-style: italic;
+  }
+}
+h2 {
+  font-size: 18px;
+}
+body {
+  background-color: slateblue;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  color: white;
+  text-align: center;
+}
+a {
+  background-color: white;
+  font-size: 20px;
+  border-radius: 10px;
+  padding: 10px;
+  display: block;
+  text-align: center;
+  margin: 10px;
+  color: slateblue;
+}>
     <link href="style.css" rel="stylesheet" />
   </head>
   <body>
